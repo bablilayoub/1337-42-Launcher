@@ -5,7 +5,7 @@ Here is a 1337 / 42 launcher for MacOS. It will allow you manage your whole desk
 
 ## Usage
 ```
-git clone
+git clone https://github.com/bablilayoub/1337-42-Launcher.git
 cd 1337-42-Launcher
 ./launcher.sh
 ```
